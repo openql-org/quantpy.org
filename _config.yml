@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: [QuantPy provided by OpenQL Project]
+description: [Quantum computer system libraries in Python provided by OpenQL Project.]
+repository_url: https://github.com/openql-org/quantpy
